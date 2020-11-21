@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, p {
+  background-color: #DDE0E3;    /* Light gray */
+}
+
+em, strong {
+  background-color: #B2D6FF;    /* Light blue */
+  display: block;
+}
+
+p {
+  padding: 20px 0 20px 10px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  padding: 50px;
+  border-bottom: 1px solid #5D6063;
+}
+
+div {
+  color: #FFF;
+ background-color: #4A90E2;
+ font-weight: bold;
+ padding: 20px;
+ text-align: center;
+
+ width: 200px;
+ box-sizing: border-box;
+ margin: 20px auto; /* Vertical  Horizontal */
+}
